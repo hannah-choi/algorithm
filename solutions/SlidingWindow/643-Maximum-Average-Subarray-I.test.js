@@ -1,4 +1,4 @@
-import { findMaxAverage } from './643_Maximum Average Subarray I';
+import { findMaxAverage } from './643-Maximum-Average-Subarray-I';
 
 describe.each([
     [[1, 12, -5, -6, 50, 3], 4, 12.75],

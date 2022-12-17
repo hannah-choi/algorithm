@@ -1,4 +1,4 @@
-import { longestOnes } from './1004_Max Consecutive Ones III';
+import { longestOnes } from './1004-Max-Consecutive-Ones-III';
 
 describe.each([
     [[1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2, 6],

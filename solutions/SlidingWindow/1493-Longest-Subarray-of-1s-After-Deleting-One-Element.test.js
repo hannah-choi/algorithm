@@ -1,4 +1,4 @@
-import { longestSubarray } from './1493_Longest Subarray of 1s After Deleting One Element';
+import { longestSubarray } from './1493-Longest-Subarray-of-1s-After-Deleting-One-Element';
 
 describe.each([
     [[1, 1, 0, 1], 3],

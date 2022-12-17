@@ -1,4 +1,4 @@
-import { numOfSubarrays } from './1343_Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold';
+import { numOfSubarrays } from './1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold';
 
 describe.each([
     [[2, 2, 2, 2, 5, 5, 5, 8], 3, 4, 3],

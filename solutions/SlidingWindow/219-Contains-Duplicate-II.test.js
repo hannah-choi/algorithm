@@ -1,4 +1,4 @@
-import { containsNearbyDuplicate } from './219_Contains Duplicate II';
+import { containsNearbyDuplicate } from './219-Contains-Duplicate-II';
 
 describe.each([
     [[1, 2, 3, 1], 3, true],

@@ -1,4 +1,4 @@
-import { minimumRecolors } from './2379_Minimum Recolors to Get K Consecutive Black Blocks';
+import { minimumRecolors } from './2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks';
 
 describe.each([
     ['WBBWWBBWBW', 7, 3],

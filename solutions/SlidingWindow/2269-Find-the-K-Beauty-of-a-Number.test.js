@@ -1,4 +1,4 @@
-import { divisorSubstrings } from './2269_Find the K-Beauty of a Number';
+import { divisorSubstrings } from './2269-Find-the-K-Beauty-of-a-Number';
 
 describe.each([
     [240, 2, 2],

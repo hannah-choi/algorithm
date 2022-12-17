@@ -1,4 +1,4 @@
-import { countGoodSubstrings } from './1876_Substrings of Size Three with Distinct Characters';
+import { countGoodSubstrings } from './1876-Substrings-of-Size-Three-with-Distinct-Characters';
 
 describe.each([
     ['xyzzaz', 1],

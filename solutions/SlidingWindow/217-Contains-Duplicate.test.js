@@ -1,4 +1,4 @@
-import { containsDuplicate } from './217_Contains Duplicate';
+import { containsDuplicate } from './217-Contains-Duplicate';
 
 describe.each([
     [[1, 2, 3, 1], true],
