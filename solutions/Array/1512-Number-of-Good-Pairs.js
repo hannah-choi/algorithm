@@ -1,6 +1,6 @@
 // Problem: https://leetcode.com/problems/number-of-good-pairs/
 
-// O(N) solution
+// O(n) solution
 export const numIdenticalPairs = (nums) => {
     const obj = {};
 
