@@ -1,4 +1,4 @@
-import { isAnagram } from './242-Valid-Anagram';
+import { isAnagram } from './242-valid-anagram';
 
 describe.each([
     ['anagram', 'nagaram', true],
